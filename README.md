@@ -1,2 +1,2 @@
 # ineuron.ai-internships
-projects
+### Fligh fare prediction
